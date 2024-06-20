@@ -3,6 +3,7 @@ Learning the workflow concepts of Machine Learning and Data Science
 
 ## Data Science Framework and Tools Highlight:
 ![image](https://github.com/Vanmeeg22/ML-DS/assets/71753122/08b2268f-07c9-4023-aa15-b09125400eb9)
+Concept-Images/matplotlib-anatomy-of-a-plot-with-code.png
 
 ## Anatomy of a DataFrame:
 ![image](https://github.com/Vanmeeg22/ML-DS/assets/71753122/8170a9b8-5f74-41d3-99ac-b06244f52a16)
